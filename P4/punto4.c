@@ -1,3 +1,7 @@
+/*Escriba un programa que llame fork() y entonces llame alguna forma de exec() para correr el programa /bin/ls. 
+Intente probar todas las variaciones de la familia de funciones exec() incluyendo (en linux) execl(), execle(), 
+execlp(), execv(), execvp() y execvpe().*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
