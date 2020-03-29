@@ -1,3 +1,6 @@
+/*Escriba un programa que cree dos hijos y conecte la salida estándar de un hijo a la entrada estándar del otro 
+usando la llamada a sistema pipe()
+*/
 #include <stdio.h> 
 #include <unistd.h> 
 #include <stdlib.h>
